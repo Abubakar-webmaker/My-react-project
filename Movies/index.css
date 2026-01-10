@@ -1,0 +1,49 @@
+@import "tailwindcss";
+
+body {
+  background-color: rgb(12, 12, 31);
+}
+
+.wrapper h1 {
+  color: white;
+  text-align: center;
+  padding-top: 20px;
+  font-size: 5vh;
+  font-weight: bold;
+}
+
+.wrapper img {
+  padding-left: 90vh;
+  padding-top: 20vh;
+}
+
+.wrapper span {
+  color: rgb(63, 88, 170);
+}
+
+.search input {
+  background-color: antiquewhite;
+  padding: 10px 20px;
+  border: none;
+  border-radius: none;
+}
+
+.center {
+  padding-left: 90vh;
+}
+
+.movie-card img {
+  padding-right: 90vh;
+}
+
+.movie-card {
+  color: white;
+  font-size: 4vh;
+  font-weight: 700;
+  text-align: center;
+}
+
+.movie-card h3, p {
+  text-align: center;
+}
+
